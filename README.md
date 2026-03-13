@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Vasco Yudha 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vasco+Yudha+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%87%AE%F0%9F%87%A9;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-### AI & Full-Stack Developer | Building Intelligent Systems for Social Impact 🇮🇩
-
-*Computer Science Student @ Universitas Negeri Semarang*
+[![Profile Views](https://komarev.com/ghpvc/?username=vaskoyudha&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/vaskoyudha)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaskoyudha)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaskoyudha)
@@ -78,9 +76,40 @@ I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UN
 
 <div align="center">
 
-![Vasco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaskoyudha&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaskoyudha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaskoyudha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaskoyudha&layout=compact&theme=default&hide_border=true&langs_count=8)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaskoyudha&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vaskoyudha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Vasco's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaskoyudha&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -94,7 +123,7 @@ I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UN
 ⚖️  Legal Tech / Civic AI  →  Indonesian Legal RAG, Government Procurement
 🎨 Cultural Heritage       →  Batik Pattern Recognition
 🌾 AgriTech                →  Seasonal Produce Marketplace
-``` 
+```
 
 ---
 
