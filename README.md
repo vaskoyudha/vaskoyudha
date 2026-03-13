@@ -94,7 +94,7 @@ I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UN
 ⚖️  Legal Tech / Civic AI  →  Indonesian Legal RAG, Government Procurement
 🎨 Cultural Heritage       →  Batik Pattern Recognition
 🌾 AgriTech                →  Seasonal Produce Marketplace
-```
+``` 
 
 ---
 
