@@ -1,6 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vasco%20Yudha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Civic%20Tech%20Builder&descAlignY=55&descAlign=50" />
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vasco+Yudha+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%87%AE%F0%9F%87%A9;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=🏛️+Built+LPSE-X+—+Gov+Procurement+Fraud+Detector;🧠+RAG+Pipelines+%7C+LLMs+%7C+Geospatial+AI;🌿+Civic+Tech+for+Indonesia+%26+Beyond;🏆+Find+IT!+2026+Hackathon+Competitor+(Track+C);🚀+Turning+Public+Data+into+Social+Impact;🇮🇩+CS+Student+@+UNNES+Semarang)](https://git.io/typing-svg)
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vaskoyudha&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/vaskoyudha)
 
@@ -14,33 +18,41 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UNNES), Indonesia, focused on research and applied **Artificial Intelligence**. I love building full-stack platforms that address real-world social, environmental, and health challenges in Indonesia and beyond.
+I'm **Vasco Yudha**, a Computer Science student at **Universitas Negeri Semarang (UNNES)**, Indonesia — building AI-powered systems that tackle real-world problems in governance, public health, and the environment.
 
-- 🔭 Currently building intelligent systems with AI, geospatial data, and modern web stacks
-- 🌱 Exploring **RAG pipelines**, **LLMs**, and **geospatial intelligence**
-- 💡 Passionate about using technology for **public health**, **environmental monitoring**, and **civic tech**
+My flagship project, **LPSE-X**, is an offline-first government procurement fraud detection system that scrapes, analyzes, and surfaces risk signals from Indonesia's LPSE tender data — built and competed at **Find IT! 2026 (Track C)**. From geospatial stunting intelligence to antimicrobial resistance platforms, I build tools that put data in the hands of people who need it most.
+
+- 🏛️ **LPSE-X** — Automated gov procurement scraper & fraud-risk analyzer, competed at **Find IT! 2026**
+- 🧠 Deep into **RAG pipelines**, **LLMs**, and **geospatial intelligence** for civic applications
+- 🌿 Building platforms for **public health**, **environmental monitoring**, and **civic transparency**
+- 🚀 Full-stack across **TypeScript/Next.js**, **Python**, **Flutter/Dart**, and **AI/ML** stacks
 - 🤝 Open to collaboration on open-source AI and social impact projects
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -49,6 +61,7 @@ I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UN
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
 
 **Tools & Platforms**
 
@@ -57,18 +70,28 @@ I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UN
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
+<div align="center">
+
+| 🏷️ Project | 📝 Description | 🔧 Stack |
+|:---|:---|:---|
+| [🏛️ LPSE-X](https://github.com/vaskoyudha/LSPE-X-HACKTHON-) | Offline-first government procurement fraud detector — scrapes LPSE tender data, surfaces risk signals, and generates audit-ready reports. **Find IT! 2026 Track C** | Python, ML, Scrapy |
 | [🧠 omnibus-rag](https://github.com/vaskoyudha/omnibus-rag) | Open-source Indonesian Legal RAG framework — hybrid retrieval, grounding verification, confidence scoring & knowledge graph | Python, LangChain, RAG |
-| [🗺️ StuntingMap](https://github.com/vaskoyudha/StuntingMap) | Geospatial stunting intelligence platform for 514 Indonesian districts — XGBoost+SHAP, MapLibre, LLM narratives | TypeScript, Next.js, ML |
+| [🗺️ StuntingMap](https://github.com/vaskoyudha/StuntingMap) | Geospatial stunting intelligence for 514 Indonesian districts — XGBoost+SHAP predictions, MapLibre visualization, LLM-generated narratives | TypeScript, Next.js, ML |
+| [🌊 ALIVE Sea Showcase](https://github.com/vaskoyudha/alive-sea-showcase) | Immersive sea-themed rescue lifeboat showcase website with cinematic UI | TypeScript, Next.js |
+| [🏛️ Museum 360 Nusantara](https://github.com/vaskoyudha/museum-360-nusantara) | 360° virtual museum experience preserving Indonesian cultural heritage | TypeScript |
 | [🌿 EcoSentra](https://github.com/vaskoyudha/EcoSentra) | Environmental intelligence platform for community-driven reporting and geospatial insights | TypeScript, Next.js |
 | [💊 pharmawise-amr](https://github.com/vaskoyudha/pharmawise-amr) | Antimicrobial resistance intelligence platform for healthcare decision support | TypeScript, Next.js |
 | [🦟 DBDWaspada](https://github.com/vaskoyudha/DBDWaspada) | Dengue fever early-warning system — predictive analytics and geospatial risk mapping | Python, ML |
-| [🪑 SitSense](https://github.com/vaskoyudha/SitSenseFullstack.github.io) | Real-time smart chair posture monitoring system with MERN stack and IoT sensors | MERN, IoT, Real-time |
+| [🔄 CodexCLI-Rotate](https://github.com/vaskoyudha/CodexCLI-Rotate) | Multi-account manager for Codex CLI with automatic rotation on rate limits. Supports Hermes Agent & OpenClaw | Python, CLI |
+| [🪑 SitSense](https://github.com/vaskoyudha/SitSenseFullstack.github.io) | Real-time smart chair posture monitoring with MERN stack and IoT sensors | MERN, IoT |
+
+</div>
 
 ---
 
@@ -106,32 +129,19 @@ I'm a passionate **Computer Science student** at Universitas Negeri Semarang (UN
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaskoyudha/vaskoyudha/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-## 🌍 Focus Areas
-
-```
-🏥 Public Health Tech      →  Dengue, Stunting, AMR, Posyandu
-🌿 Environmental Tech      →  Mangrove, Air Quality, Waste Management
-⚖️  Legal Tech / Civic AI  →  Indonesian Legal RAG, Government Procurement
-🎨 Cultural Heritage       →  Batik Pattern Recognition
-🌾 AgriTech                →  Seasonal Produce Marketplace
-```
-
----
-
 <div align="center">
 
-*"Technology should serve the people — especially those who need it most."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-⭐ **Feel free to explore my repos and leave a star if you find something useful!** ⭐
+*"Building technology that serves the public, not just the market."*
 
 </div>
-
