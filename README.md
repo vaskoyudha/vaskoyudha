@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=200&section=header&text=Vasco%20Yudha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Curious%20about%20AI%20%C2%B7%20Chasing%20Ideas%20at%20the%20Edge%20%C2%B7%20Building%20for%20Indonesia&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=200&section=header&text=Vasco%20Yudha&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=36&desc=Curious%20about%20AI%20%C2%B7%20Chasing%20Ideas%20at%20the%20Edge%20%C2%B7%20Building%20for%20Indonesia&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
