@@ -9,8 +9,8 @@
 
 ```
                     ┌─────────────────────────────────────┐
-                    │  CS Student @ UNNES · Indonesia 🇮🇩  │
-                    │  Building AI for Social Impact       │
+                    │      AI Enthusiast · Indonesia 🇮🇩    │
+                    │   Building Intelligent Systems       │
                     └─────────────────────────────────────┘
 ```
 
@@ -20,13 +20,11 @@
 
 ```
   ╔═══════════════════════════════════════════════════════════╗
-  ║  📋 ABOUT ME                                              ║
+  ║  📋 ABOUT                                                 ║
   ╚═══════════════════════════════════════════════════════════╝
 ```
 
-Computer Science student at **Universitas Negeri Semarang**, Indonesia. I build AI-powered systems that tackle real-world problems in governance, public health, and the environment.
-
-**🏆 Flagship Project:** [LPSE-X](https://github.com/vaskoyudha/LSPE-X-HACKTHON-) — Offline-first government procurement fraud detection system, competed at **Find IT! 2026**
+**AI Enthusiast** passionate about building intelligent systems that solve real-world problems. Focused on AI/ML, RAG pipelines, and creating technology that makes an impact.
 
 > *"Building technology that serves the public, not just the market."*
 
@@ -42,50 +40,11 @@ Computer Science student at **Universitas Negeri Semarang**, Indonesia. I build 
 
 ```
   Languages     ████████████████████░░  Python, TypeScript, JavaScript
-                ████████████████░░░░░░  Dart, Go, C++
-
-  Frontend      ████████████████████░░  React, Next.js, Flutter, Tailwind
-  
-  Backend       ████████████████████░░  Node.js, FastAPI, PostgreSQL, MongoDB
   
   AI/ML         ████████████████████░░  LangChain, HuggingFace, scikit-learn
                 ████████████████░░░░░░  XGBoost, RAG Pipelines
-```
-
----
-
-## ═══════════════════════════════════════════════════════════════
-
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  🚀 FEATURED PROJECTS                                     ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
-
-```
-  🏛️  LPSE-X
-      └─ Government procurement fraud detector · Python, ML · Find IT! 2026 🏆
   
-  🧠  omnibus-rag
-      └─ Indonesian legal RAG framework · Python, LangChain
-  
-  🗺️  StuntingMap
-      └─ Geospatial stunting intelligence · TypeScript, Next.js, XGBoost
-  
-  💊  pharmawise-amr
-      └─ Antimicrobial resistance platform · TypeScript, Next.js
-  
-  🦟  DBDWaspada
-      └─ Dengue early-warning system · Python, ML
-  
-  🌊  alive-sea-showcase
-      └─ Cinematic sea-themed showcase · TypeScript, Next.js
-  
-  🏛️  Museum-360-Nusantara
-      └─ 360° virtual museum · TypeScript
-  
-  🌿  EcoSentra
-      └─ Environmental intelligence platform · TypeScript, Next.js
+  Full-Stack    ████████████████████░░  React, Next.js, Node.js, FastAPI
 ```
 
 ---
@@ -126,7 +85,7 @@ Computer Science student at **Universitas Negeri Semarang**, Indonesia. I build 
 ```
 
 ```
-  Open to collaborate on open-source AI & social impact projects! 🚀
+  Open to collaborate on AI projects & open-source! 🚀
 ```
 
 ---
