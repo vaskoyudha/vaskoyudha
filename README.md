@@ -1,61 +1,45 @@
 ```
- __     __    _     _____    ____
- \ \   / /   | |   |  __ \  |  _ \
-  \ \_/ /    | |   | |  | | | |_) |
-   \   /     | |   | |  | | |  _ <
-    | |      | |___| |__| | | |_) |
-    |_|      |_____|_____/  |____/
+ _____                  _
+|_   _|__ _ __  ___   _| | __ _
+  | |/ _ \ '_ \/ __| | | |/ _` |
+  | |  __/ | | \__ \ |_| | (_| |
+  |_|\___|_| |_|___/\__,_|\__,_|
 ```
 
-```
-                    ┌─────────────────────────────────────┐
-                    │      AI Enthusiast · Indonesia 🇮🇩    │
-                    │   Building Intelligent Systems       │
-                    └─────────────────────────────────────┘
-```
+<h3 align="center">AI Enthusiast · Indonesia 🇮🇩 · Building Intelligent Systems</h3>
+
+<p align="center">
+  <em>"Building technology that serves the public, not just the market."</em>
+</p>
 
 ---
 
 ## ═══════════════════════════════════════════════════════════════
 
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  📋 ABOUT                                                 ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
+<h3>📋 About</h3>
 
 **AI Enthusiast** passionate about building intelligent systems that solve real-world problems. Focused on AI/ML, RAG pipelines, and creating technology that makes an impact.
 
-> *"Building technology that serves the public, not just the market."*
-
 ---
 
 ## ═══════════════════════════════════════════════════════════════
 
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  🛠️  TECH STACK                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
+<h3>🛠️ Tech Stack</h3>
 
 ```
-  Languages     ████████████████████░░  Python, TypeScript, JavaScript
-  
-  AI/ML         ████████████████████░░  LangChain, HuggingFace, scikit-learn
-                ████████████████░░░░░░  XGBoost, RAG Pipelines
-  
-  Full-Stack    ████████████████████░░  React, Next.js, Node.js, FastAPI
+Languages     ████████████████████░░  Python, TypeScript, JavaScript
+
+AI/ML         ████████████████████░░  LangChain, HuggingFace, scikit-learn
+              ████████████████░░░░░░  XGBoost, RAG Pipelines
+
+Full-Stack    ████████████████████░░  React, Next.js, Node.js, FastAPI
 ```
 
 ---
 
 ## ═══════════════════════════════════════════════════════════════
 
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  📊 GITHUB STATS                                          ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
 
@@ -72,32 +56,22 @@
 
 ## ═══════════════════════════════════════════════════════════════
 
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║  📫 CONNECT                                               ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
+<h3>📫 Connect</h3>
 
 ```
-  LinkedIn   →  https://www.linkedin.com/in/vaskoyudha
-  Email      →  vaskoyudha@gmail.com
-  GitHub     →  https://github.com/vaskoyudha
+LinkedIn   →  https://www.linkedin.com/in/vaskoyudha
+Email      →  vaskoyudha@gmail.com
+GitHub     →  https://github.com/vaskoyudha
 ```
 
-```
-  Open to collaborate on AI projects & open-source! 🚀
-```
+<p align="center">
+  <strong>Open to collaborate on AI projects & open-source! 🚀</strong>
+</p>
 
 ---
 
 <div align="center">
 
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║           ⭐ Thanks for visiting my profile! ⭐           ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
+<h3>⭐ Thanks for visiting my profile! ⭐</h3>
 
 </div>
