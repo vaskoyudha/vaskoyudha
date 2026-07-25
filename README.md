@@ -20,6 +20,7 @@
 
 <p align="center">
   <em>"Building technology that serves the public, not just the market."</em>
+  <!-- Profile Sync: 2026-07-25 -->
 </p>
 
 ---
